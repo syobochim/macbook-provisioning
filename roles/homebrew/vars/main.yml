@@ -1,0 +1,14 @@
+homebrew_taps:
+  - caskroom/cask
+homebrew_packages:
+  - { name: python }
+  - { name: ansible }
+  - { name: git }
+  - { name: zsh, install_options: disable-etcdir }
+  - { name: wget }
+  - { name: curl }
+  - { name: tree }
+  - { name: lv }
+  - { name: nkf }
+  - { name: tmux }
+#  - { name: homebrew/completions/brew-cask-completion }
