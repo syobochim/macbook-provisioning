@@ -11,4 +11,5 @@ homebrew_packages:
   - { name: lv }
   - { name: nkf }
   - { name: tmux }
+  - { name: maven }
 #  - { name: homebrew/completions/brew-cask-completion }

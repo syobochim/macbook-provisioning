@@ -1,12 +1,4 @@
 homebrew_cask_packages:
   - { name: iterm2 }
   - { name: java }
-  - { name: skype }
   - { name: skitch }
-
-#  - { name: google-chrome }
-#  - { name: slack }
-#  - { name: karabiner }
-#  - { name: intellij-idea }
-#  - { name: vagrant }
-#  - { name: virtualbox }
